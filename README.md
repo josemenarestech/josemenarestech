@@ -1,6 +1,6 @@
 #### Holaaaaaa 🚀
 
-Soy Jose, **Tech Sourcer en @Buk** 💙 y Me dedico especialmente a buscar talento para nuestros equipos de ingenería de software. Mi objetivo acá es poder ser parte de la comunidad para encontrar más talento y comprender los desafiós técnicos que se encuentran.
+Soy Jose, **Tech Sourcer en @bukhr** 💙 y Me dedico especialmente a buscar talento para nuestros equipos de ingenería de software. Mi objetivo acá es poder ser parte de la comunidad para encontrar más talento y comprender los desafiós técnicos que se encuentran.
 
 Las tecnologías con las que me relaciono, son:
 - PHP Sympony
