@@ -13,4 +13,4 @@ Las tecnologías con las que me relaciono, son:
 
 Demasiado feliz si hablamos, así podemos conectar y contartos en que estamso trabajando 🤗 [Visita mi Linkedin](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-menares-bera%C3%BAn-776656325/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaC%2Bzyxx%2BTfKDCBJN6kiKwA%3D%3D) y mi correo: **mmenares@buk.cl**
 
-Encantada de conversas y hablar de lo que estamos haciendo en ingenería este año y como podríamos trabajar en conjunto.
+Encantada de conversar y hablar de lo que estamos haciendo en ingenería este año y como podríamos trabajar en conjunto.
